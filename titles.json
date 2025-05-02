@@ -149,6 +149,42 @@
         "medium": "Placeholder medium",
         "year": "Placeholder year",
         "description": "Placeholder description"
+      },
+      {
+        "file": "my_ceramics (22).jpg",
+        "title": "Screen printed ceramic tray",
+        "medium": "Screen Printing",
+        "year": "2025"
+      },
+      {
+        "file": "my_ceramics (25).jpg",
+        "title": "Screen printed ceramic tray",
+        "medium": "Screen Printing",
+        "year": "2025"
+      },
+      {
+        "file": "my_ceramics (27).jpg",
+        "title": "Screen printed ceramic tray",
+        "medium": "Screen Printing",
+        "year": "2025"
+      },
+      {
+        "file": "my_ceramics (28).jpg",
+        "title": "Screen printed ceramic tray",
+        "medium": "Screen Printing",
+        "year": "2025"
+      },
+      {
+        "file": "my_ceramics (29).jpg",
+        "title": "Screen printed ceramic tray",
+        "medium": "Screen Printing",
+        "year": "2025"
+      },
+      {
+        "file": "my_ceramics (30).jpg",
+        "title": "Screen printed ceramic tray",
+        "medium": "Screen Printing",
+        "year": "2025"
       }
     ]
   },
@@ -1167,6 +1203,12 @@
         "description": "Playing with perspective, this inverted image of a crystal ball confuses many a viewer!"
       },
       {
+        "file": "student_photography (30).jpg",
+        "title": "The Warrior's Path",
+        "medium": "DSLR",
+        "year": "2018",
+      },
+      {
         "file": "student_photography (32).jpg",
         "title": "Light",
         "medium": "DSLR",
@@ -1200,6 +1242,18 @@
       {
         "file": "student_photography (37).jpg",
         "title": "The Farmhouse",
+        "medium": "DSLR and Photoshop",
+        "year": "2018"
+      },
+      {
+        "file": "student_photography (38).jpg",
+        "title": "The Portal (Introductory Portrait)",
+        "medium": "DSLR and Photoshop",
+        "year": "2018"
+      },
+      {
+        "file": "student_photography (39).jpg",
+        "title": "The Beast",
         "medium": "DSLR and Photoshop",
         "year": "2018"
       },
@@ -1239,6 +1293,14 @@
       {
         "file": "student_photography (49).jpg",
         "title": "The View"
+      },
+      {
+        "file": "student_photography (49).jpg",
+        "title": "The Portal"
+      },
+      {
+        "file": "student_photography (49).jpg",
+        "title": "On the Evening Sky"
       }
     ]
   },
@@ -1365,15 +1427,15 @@
     "images": [
       {
         "file": "my_graphic_design (1).jpg",
-        "title": "My Graphic Design 1",
-        "medium": "Placeholder medium",
+        "title": "Celebration Post",
+        "medium": "Adobe Illustrator",
         "year": "Placeholder year",
         "description": "Placeholder description"
       },
       {
         "file": "my_graphic_design (2).jpg",
-        "title": "My Graphic Design 2",
-        "medium": "Placeholder medium",
+        "title": "Canvas Banner",
+        "medium": "Canva",
         "year": "Placeholder year",
         "description": "Placeholder description"
       },
@@ -1464,6 +1526,13 @@
       {
         "file": "my_graphic_design (15).jpg",
         "title": "My Graphic Design 15",
+        "medium": "Placeholder medium",
+        "year": "Placeholder year",
+        "description": "Placeholder description"
+      },
+      {
+        "file": "my_graphic_design (16).jpg",
+        "title": "My Graphic Design 16",
         "medium": "Placeholder medium",
         "year": "Placeholder year",
         "description": "Placeholder description"
@@ -1665,16 +1734,14 @@
       {
         "file": "yearbook (1).jpg",
         "title": "2020 Yearbook Cover",
-        "medium": "Placeholder medium",
-        "year": "Placeholder year",
-        "description": "Placeholder description"
+        "medium": "Adobe Illustrator",
+        "year": "2020",
+        "description": "Everything You Never Expected"
       },
       {
         "file": "yearbook (2).jpg",
         "title": "Cover Design Award",
-        "medium": "Placeholder medium",
-        "year": "Placeholder year",
-        "description": "Placeholder description"
+        "description": "Herff Jones award for cover design on 2017 yearbook."
       },
       {
         "file": "yearbook (3).jpg",
