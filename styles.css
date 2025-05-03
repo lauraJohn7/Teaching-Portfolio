@@ -581,3 +581,48 @@ footer.contact-section a:hover {
   line-height: 1.4;
 }
 
+.polaroid-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 40px;
+  max-width: 1400px;
+  margin: auto;
+}
+
+.polaroid {
+  background: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 2px 4px 10px rgba(0,0,0,0.2);
+}
+
+.polaroid img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.polaroid p {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.fade-out {
+  animation: fadeOut 0.4s forwards;
+}
+
+.fade-in {
+  animation: fadeIn 0.4s forwards;
+}
+
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}

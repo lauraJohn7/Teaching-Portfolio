@@ -227,3 +227,8 @@ homepageLinks.forEach(link => {
       }
     });
   });
+
+  fetch("titles.json")
+  .then(response => response.json())
+  .then(data => {
+    console.log("✅ Loaded JSON:", data); // Debug line
