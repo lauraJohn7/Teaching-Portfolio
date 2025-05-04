@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Laura E. John - Teaching Portfolio</title>
     <link rel="stylesheet" href="styles.css">
-<script defer src="script.js"></script>
+
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 
@@ -155,7 +155,7 @@
 </section>
 
 <!-- Gallery Container -->
-<div class="gallery">
+<div class="gallery" style="display: none;">
     <div class="grid-sizer"></div>
     <!-- Cards will be added here -->
   </div>
@@ -173,6 +173,8 @@
     <span class="close">&times;</span>
   </div>
   
+  <button id="load-more" style="display: none; margin: 20px auto; display: block;">Load More</button>
+
 </div>
 
 <script src="scripts/main.js"></script>
