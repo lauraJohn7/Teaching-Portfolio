@@ -1732,11 +1732,11 @@
     ],
     "images": [
       {
-        "file": "yearbook (1).jpg",
-        "title": "2020 Yearbook Cover",
-        "medium": "Adobe Illustrator",
-        "year": "2020",
-        "description": "Everything You Never Expected"
+        "file": "yearbook (8).jpg",
+        "title": "2024 Yearbook",
+        "medium": "Print",
+        "year": "2024",
+        "description": "Leave Your Mark"
       },
       {
         "file": "yearbook (2).jpg",
@@ -1744,24 +1744,24 @@
         "description": "Herff Jones award for cover design on 2017 yearbook."
       },
       {
-        "file": "yearbook (3).jpg",
-        "title": "2024 Yearbook Cover"
+        "file": "yearbook (9).jpg",
+        "title": "2019 Yearbook",
+        "description": "You Had to Be There"
       },
       {
-        "file": "yearbook (4).jpg",
-        "title": "2020 Theme Page, Diversity"
+        "file": "yearbook (10).jpg",
+        "title": "2020 Yearbook",
+        "description": "Everything You Never Expected"
       },
       {
-        "file": "yearbook (5).jpg",
-        "title": "2020 Theme Page, Theater"
+        "file": "yearbook (11).jpg",
+        "title": "2022 Yearbook",
+        "description": "Connect"
       },
       {
-        "file": "yearbook (6).jpg",
-        "title": "2021 Front End Sheet"
-      },
-      {
-        "file": "yearbook (7).jpg",
-        "title": "2024 Divider Layout"
+        "file": "yearbook (12).jpg",
+        "title": "2023 Yearbook",
+        "description": "You Had to Be There"
       }
     
     ]
