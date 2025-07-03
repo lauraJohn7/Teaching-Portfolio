@@ -1732,7 +1732,7 @@
     ],
     "images": [
       {
-        "file": "yearbook (8).jpg",
+        "file": "yearbook (1).jpg",
         "title": "2024 Yearbook",
         "medium": "Print",
         "year": "2024",
@@ -1740,30 +1740,143 @@
       },
       {
         "file": "yearbook (2).jpg",
-        "title": "Cover Design Award",
-        "description": "Herff Jones award for cover design on 2017 yearbook."
+        "title": "Cover Award",
+        "medium": "Print",
+        "year": "2016",
+        "description": "Award for cover design of 2016 yearbook"
       },
       {
-        "file": "yearbook (9).jpg",
+        "file": "yearbook (3).jpg",
         "title": "2019 Yearbook",
+        "medium": "Print",
+        "year": "2024",
         "description": "You Had to Be There"
       },
       {
-        "file": "yearbook (10).jpg",
+        "file": "yearbook (4).jpg",
         "title": "2020 Yearbook",
+        "medium": "Print",
+        "year": "2020",
         "description": "Everything You Never Expected"
       },
       {
-        "file": "yearbook (11).jpg",
+        "file": "yearbook (5).jpg",
         "title": "2022 Yearbook",
+        "medium": "Print",
+        "year": "2022",
         "description": "Connect"
       },
       {
-        "file": "yearbook (12).jpg",
+        "file": "yearbook (6).jpg",
         "title": "2023 Yearbook",
-        "description": "You Had to Be There"
-      }
-    
+        "medium": "Print",
+        "year": "2023",
+        "description": "It's All Part of the Plan"
+      },
+      {
+        "file": "yearbook-7.jpg",
+        "title": "2023 Yearbook",
+        "medium": "Print",
+        "year": "2023",
+        "description": "It's All Part of the Plan, Endsheet"
+      },
+      {
+        "file": "yearbook-8.jpg",
+        "title": "2023 Yearbook",
+        "medium": "Print",
+        "year": "2023",
+        "description": "It's All Part of the Plan, Divider"
+      },
+      {
+        "file": "yearbook-9.jpg",
+        "title": "2023 Yearbook",
+        "medium": "Print",
+        "year": "2023",
+        "description": "It's All Part of the Plan, Senior Feature"
+      },
+      {
+        "file": "yearbook-10.jpg",
+        "title": "2023 Yearbook",
+        "description": "It's All Part of the Plan, Student Life Spread"
+      },
+      {
+        "file": "yearbook-11.jpg",
+        "title": "2023 Yearbook",
+        "description": "It's All Part of the Plan, Student Life Spread"
+      },
+      {
+        "file": "yearbook-12.jpg",
+        "title": "2023 Yearbook",
+        "description": "It's All Part of the Plan, Student Life Spread"
+      },
+      {
+        "file": "yearbook-12.jpg",
+        "title": "2024 Yearbook",
+        "medium": "Print",
+        "year": "2024",
+        "description": "Leave Your Mark"
+      },
+      {
+        "file": "yearbook-13.jpg",
+        "title": "2023 Yearbook",
+        "medium": "Print",
+        "year": "2023",
+        "description": "It's All Part of the Plan, Cover"
+      },
+      {
+        "file": "yearbook-14.jpg",
+        "title": "2022 Yearbook",
+        "medium": "Print",
+        "year": "2022",
+        "description": "Connect, Cover"
+      },
+      {
+        "file": "yearbook-15.jpg",
+        "title": "2022 Yearbook",
+        "medium": "Print",
+        "year": "2022",
+        "description": "Connect, Endsheet"
+      },
+      {
+        "file": "yearbook-16.jpg",
+        "title": "2022 Yearbook",
+        "description": "It's All Part of the Plan, Senior Feature"
+      },
+      {
+        "file": "yearbook-17.jpg",
+        "title": "2022 Yearbook",
+        "medium": "Print",
+        "year": "2022",
+        "description": "Connect, Student Life Spread"
+      },
+      {
+        "file": "yearbook-18.jpg",
+        "title": "2022 Yearbook",
+        "medium": "Print",
+        "year": "2022",
+        "description": "Connect, Student Life Spread"
+      },
+      {
+        "file": "yearbook-19.jpg",
+        "title": "2022 Yearbook",
+        "medium": "Print",
+        "year": "2022",
+        "description": "Connect, Athletics Spread"
+      },
+    {
+        "file": "yearbook-20.jpg",
+        "title": "2020 Yearbook",
+        "medium": "Print",
+        "year": "2020",
+        "description": "Everything You Never Expected, Cover"
+      },
+      {
+        "file": "yearbook-21.jpg",
+        "title": "2020 Yearbook",
+        "medium": "Print",
+        "year": "2020",
+        "description": "Everything You Never Expected, Cover 2"
+      },
     ]
   },
   {
